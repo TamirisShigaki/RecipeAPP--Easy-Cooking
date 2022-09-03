@@ -15,10 +15,8 @@ Projeto em grupo com:
 * <a href="https://github.com/eggersss" target="_blank" rel="external"><p><strong>Alexandre Eggers</strong></p></a>
 
 
-Último projeto do módulo Front-end desenvolvido na Trybe, onde tivesmos que desenvolver uma aplicação que nomeamos como Easy Coocking - Foods&Drinks, onde o usuário tem acesso a diversas receitas, podendo utilizar diferentes tipos de filtros, explorar por nacionalidade/ingrediente e gerar uma receita surpresa. Além de salvar o progresso das receitas, receitas finalizadas e as receitas favoritas. E também desenvolvemos a aplicação com cobertura dos testes!
-Design responsivo desenvolvido com o conceito de mobile first.
-Ferramentas utilizadas: JavaScript, HTML, Bootstrap, React Redux, React hooks, RTL.
-Tivemos também a oportunidade de aprimorar as algumas soft skills, colaboração, empatia, flexibilidade, organização, pensamento critico e comunicação, que foram essenciais do inicio ao fim de todo o projeto.
+Último projeto do módulo Front-end desenvolvido na Trybe, onde tivesmos que desenvolver uma aplicação que nomeamos como Easy Coocking - Foods&Drinks, onde o usuário tem acesso a diversas receitas, podendo utilizar diferentes tipos de filtros, explorar por nacionalidade/ingrediente e gerar uma receita surpresa. Além de salvar o progresso das receitas, receitas finalizadas e as receitas favoritas. E também desenvolvemos a aplicação com cobertura dos testes! Design responsivo desenvolvido com o conceito de móbile first. 
+Ferramentas utilizadas: JavaScript, HTML, Bootstrap, React Redux, React hooks, RTL. Tivemos também a oportunidade de aprimorar algumas soft skills, colaboração, empatia, flexibilidade, organização, pensamento critico e comunicação, essenciais do início ao fim de todo o projeto.
 
 <!-- Olá, Tryber!
 
